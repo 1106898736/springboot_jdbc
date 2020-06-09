@@ -1,0 +1,4 @@
+CREATE TABLE `swf` (
+	`id` INT (11) NOT NULL,
+	`username` VARCHAR (50) DEFAULT NULL
+)
